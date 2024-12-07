@@ -1,0 +1,1 @@
+"use strict";var searchBtn=document.querySelector(".cs-search"),searchField=document.querySelector(".cs-search__field");searchBtn.addEventListener("click",function(){searchField.focus()}),searchBtn.addEventListener("mouseover",function(){searchField.focus()});
